@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.core:core-ktx:1.3.2] H:\Gradle\Cache\caches\transforms-2\files-2.1\87f412dca0a536205ea02151b74a32bf\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.2.1] H:\Gradle\Cache\caches\transforms-2\files-2.1\ea23ead7fcbe02c0ab96e3b3f21b3035\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] H:\Gradle\Cache\caches\transforms-2\files-2.1\d213e125a35333df43a6d5a8990b17df\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\c74faed009ca3778ad39b84403d6e1a7\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\afd0f4717ec5062b2e7812658c4dad7c\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\4c4fcfcb99d082e18bc5ae03b5776776\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\2ed9b4fb572913fa84739ffe894b9b64\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\a9393897e5523f2e9941b96b2c9a5d62\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\75067c88a34617749101fbb881093461\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\49a33e450252d772b6d03da2dff56f59\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\17d12d56956caa71349548daa031b457\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\5548679e7c1e200edc22d668f660ffb9\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\c2c66d5ebc70dd14e49338da6d681bb5\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\7adbe1fca881f366b9d4289e3fb2aec2\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\fa1f3ec3aa57ba9cdd473e72aa848339\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\1ebd79c8c465cebd61bb4abc2ae4e787\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\f84b7307165f3b352d093e641d1c6de6\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] H:\Gradle\Cache\caches\transforms-2\files-2.1\7893435cd90051e8d90be2090a8dd05f\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\0e8de2c485590ee6e595327c604c0516\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\e0a8242fcfb456b9c9b81955bbfbd511\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\032a8333d8a6f5575ee279717a4e79d5\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\a6fbc944568e1d4a2312dbc8d07e04b0\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\4492e9bc879677b1276c017a7281e4cd\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\63f47bd20598ed8d982a2a4a0e87a81c\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\da083a03f65f4616c8b83c63b8771738\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\ddeecb14d796688b713743e157ceb527\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\28a3b5da2b925ea6b897dcc7acd0331d\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\e2a2087b76a7f592487c8fc34921ba3d\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\342bdbba90facd2c2bbc8e5124399293\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml
+		ADDED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml
+		ADDED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.google.android.material:material:1.2.1] H:\Gradle\Cache\caches\transforms-2\files-2.1\ea23ead7fcbe02c0ab96e3b3f21b3035\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] H:\Gradle\Cache\caches\transforms-2\files-2.1\ea23ead7fcbe02c0ab96e3b3f21b3035\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] H:\Gradle\Cache\caches\transforms-2\files-2.1\d213e125a35333df43a6d5a8990b17df\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] H:\Gradle\Cache\caches\transforms-2\files-2.1\d213e125a35333df43a6d5a8990b17df\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] H:\Gradle\Cache\caches\transforms-2\files-2.1\7893435cd90051e8d90be2090a8dd05f\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] H:\Gradle\Cache\caches\transforms-2\files-2.1\7893435cd90051e8d90be2090a8dd05f\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\032a8333d8a6f5575ee279717a4e79d5\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\032a8333d8a6f5575ee279717a4e79d5\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] H:\Gradle\Cache\caches\transforms-2\files-2.1\7893435cd90051e8d90be2090a8dd05f\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:11:9-47
+activity#com.example.travelapp.MainActivity
+ADDED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml
+INJECTED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] H:\Gradle\Cache\caches\transforms-2\files-2.1\87f412dca0a536205ea02151b74a32bf\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] H:\Gradle\Cache\caches\transforms-2\files-2.1\87f412dca0a536205ea02151b74a32bf\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] H:\Gradle\Cache\caches\transforms-2\files-2.1\ea23ead7fcbe02c0ab96e3b3f21b3035\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] H:\Gradle\Cache\caches\transforms-2\files-2.1\ea23ead7fcbe02c0ab96e3b3f21b3035\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] H:\Gradle\Cache\caches\transforms-2\files-2.1\d213e125a35333df43a6d5a8990b17df\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] H:\Gradle\Cache\caches\transforms-2\files-2.1\d213e125a35333df43a6d5a8990b17df\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\c74faed009ca3778ad39b84403d6e1a7\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\c74faed009ca3778ad39b84403d6e1a7\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\afd0f4717ec5062b2e7812658c4dad7c\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\afd0f4717ec5062b2e7812658c4dad7c\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\4c4fcfcb99d082e18bc5ae03b5776776\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\4c4fcfcb99d082e18bc5ae03b5776776\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\2ed9b4fb572913fa84739ffe894b9b64\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\2ed9b4fb572913fa84739ffe894b9b64\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\a9393897e5523f2e9941b96b2c9a5d62\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\a9393897e5523f2e9941b96b2c9a5d62\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\75067c88a34617749101fbb881093461\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\75067c88a34617749101fbb881093461\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\49a33e450252d772b6d03da2dff56f59\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\49a33e450252d772b6d03da2dff56f59\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\17d12d56956caa71349548daa031b457\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\17d12d56956caa71349548daa031b457\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\5548679e7c1e200edc22d668f660ffb9\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\5548679e7c1e200edc22d668f660ffb9\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\c2c66d5ebc70dd14e49338da6d681bb5\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\c2c66d5ebc70dd14e49338da6d681bb5\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\7adbe1fca881f366b9d4289e3fb2aec2\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\7adbe1fca881f366b9d4289e3fb2aec2\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\fa1f3ec3aa57ba9cdd473e72aa848339\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\fa1f3ec3aa57ba9cdd473e72aa848339\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\1ebd79c8c465cebd61bb4abc2ae4e787\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\1ebd79c8c465cebd61bb4abc2ae4e787\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\f84b7307165f3b352d093e641d1c6de6\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\f84b7307165f3b352d093e641d1c6de6\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] H:\Gradle\Cache\caches\transforms-2\files-2.1\7893435cd90051e8d90be2090a8dd05f\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] H:\Gradle\Cache\caches\transforms-2\files-2.1\7893435cd90051e8d90be2090a8dd05f\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\0e8de2c485590ee6e595327c604c0516\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\0e8de2c485590ee6e595327c604c0516\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\e0a8242fcfb456b9c9b81955bbfbd511\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\e0a8242fcfb456b9c9b81955bbfbd511\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\032a8333d8a6f5575ee279717a4e79d5\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\032a8333d8a6f5575ee279717a4e79d5\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\a6fbc944568e1d4a2312dbc8d07e04b0\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\a6fbc944568e1d4a2312dbc8d07e04b0\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\4492e9bc879677b1276c017a7281e4cd\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\4492e9bc879677b1276c017a7281e4cd\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\63f47bd20598ed8d982a2a4a0e87a81c\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\63f47bd20598ed8d982a2a4a0e87a81c\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\da083a03f65f4616c8b83c63b8771738\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\da083a03f65f4616c8b83c63b8771738\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\ddeecb14d796688b713743e157ceb527\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\ddeecb14d796688b713743e157ceb527\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\28a3b5da2b925ea6b897dcc7acd0331d\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\28a3b5da2b925ea6b897dcc7acd0331d\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\e2a2087b76a7f592487c8fc34921ba3d\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\e2a2087b76a7f592487c8fc34921ba3d\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\342bdbba90facd2c2bbc8e5124399293\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] H:\Gradle\Cache\caches\transforms-2\files-2.1\342bdbba90facd2c2bbc8e5124399293\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml
+INJECTED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml
+		ADDED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml
+		ADDED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Projects\AndroidStudio\travelapp\app\src\main\AndroidManifest.xml
